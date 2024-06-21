@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-import argparse
-import requests
+#/usr/bin/env python
 import re
 import sys
 import os
